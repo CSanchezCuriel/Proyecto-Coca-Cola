@@ -9,17 +9,17 @@
 		<title>
 			Inicio - Coca Cola
 		</title>
-		<link rel="shortcut icon" href="img/favicon.png">
+		<link rel="shortcut icon" href="./img/favicon.png">
 		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-		<link rel="stylesheet" href="css/normalize.css">
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="./css/normalize.css">
+		<link rel="stylesheet" href="./style.css">
 		<script src="https://kit.fontawesome.com/37ef4fca07.js" crossorigin="anonymous"></script>
 	</head>
 	<body>
 		<header>
 			<div class="container">
 				<a href="index.html">
-					<img src="img/logo.svg" class="logo">
+					<img src="./img/logo.svg" class="logo">
 				</a>
 				<nav>
 					<a href="#inicio">Inicio</a>
